@@ -1,15 +1,15 @@
 {
-  "staging": {
+  "master": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-testinglocal-staging-02429-authRole",
-      "UnauthRoleArn": "arn:aws:iam::713605191763:role/amplify-testinglocal-staging-02429-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::713605191763:role/amplify-testinglocal-staging-02429-authRole",
-      "Region": "us-east-2",
-      "DeploymentBucketName": "amplify-testinglocal-staging-02429-deployment",
-      "UnauthRoleName": "amplify-testinglocal-staging-02429-unauthRole",
-      "StackName": "amplify-testinglocal-staging-02429",
-      "StackId": "arn:aws:cloudformation:us-east-2:713605191763:stack/amplify-testinglocal-staging-02429/ecd12fe0-3072-11ec-b2ff-0266d0486c78",
-      "AmplifyAppId": "ddezdrkcdlizd"
+      "AuthRoleName": "amplify-testinglocal-master-191141-authRole",
+      "UnauthRoleArn": "arn:aws:iam::713605191763:role/amplify-testinglocal-master-191141-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::713605191763:role/amplify-testinglocal-master-191141-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-testinglocal-master-191141-deployment",
+      "UnauthRoleName": "amplify-testinglocal-master-191141-unauthRole",
+      "StackName": "amplify-testinglocal-master-191141",
+      "StackId": "arn:aws:cloudformation:us-west-2:713605191763:stack/amplify-testinglocal-master-191141/648c0b20-3110-11ec-923e-028717ab8c3d",
+      "AmplifyAppId": "debkm8qb10sp9"
     },
     "categories": {
       "auth": {
