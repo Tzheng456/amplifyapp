@@ -10,6 +10,11 @@
       "StackName": "amplify-testinglocal-staging-02429",
       "StackId": "arn:aws:cloudformation:us-east-2:713605191763:stack/amplify-testinglocal-staging-02429/ecd12fe0-3072-11ec-b2ff-0266d0486c78",
       "AmplifyAppId": "ddezdrkcdlizd"
+    },
+    "categories": {
+      "auth": {
+        "testinglocal3a79798f": {}
+      }
     }
   }
 }
